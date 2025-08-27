@@ -28,9 +28,6 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-<<<<<<< HEAD
-      <p>dhajdkhasjdajdhjashdaddhjak</p>
-=======
       <p>qweweqwqeqhgasdhaskdajkashdjadqiwyeuiqhuisdasdjakjdjkhkj</p>
       <p>
         Edit <code>src/App.tsx</code> and save to test HMR
@@ -39,7 +36,6 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
->>>>>>> master
     </>
   );
 }
