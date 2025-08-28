@@ -33,7 +33,9 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-
+<p>Biraj Shrestha</p>
+      <p>Niraj Shrestha</p>
+      <p>Shoran Shrestha</p>
     </>
   );
 }
